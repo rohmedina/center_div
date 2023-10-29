@@ -17,7 +17,6 @@ main{
 display: grid;
 grid-template-columns: repeat(1, 1fr); 
  grid-gap: 10px;
-height: 100vh;
 }
 
 .section-1,.section-2,.section-3,.section-4{
